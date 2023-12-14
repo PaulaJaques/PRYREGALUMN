@@ -15,7 +15,7 @@
 	<h2>Ingrese datos del Docente:</h2>
 
     <div class="input-wrapper"> 
-     <label for='NOMPROF'>Nombre Profesor</label>
+     <label for='NOMPROF'>Nombre del Profesor</label>
 	 <input type="text" id="NOMPROF" name='NOMPROF' placeholder="Nombre del Profesor"/>	  
 	</div>
 
